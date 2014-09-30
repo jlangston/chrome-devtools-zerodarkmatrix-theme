@@ -1762,7 +1762,7 @@ input.status-bar-item:focus {
 /**********************************************
 /* Scrollbars
 /**********************************************/
-::-webkit-scrollbar,
+/*::-webkit-scrollbar,
 .CodeMirror-scrollbar-filler,
 .CodeMirror-gutter-filler {
   width: 12px !important;
@@ -1824,7 +1824,7 @@ input.status-bar-item:focus {
 .custom-popup-vertical-scroll ::-webkit-scrollbar-track-piece:vertical:decrement,
 .custom-popup-vertical-scroll ::-webkit-scrollbar-track-piece:vertical:increment {
   -webkit-border-image: none !important;
-}
+}*/
 /**********************************************
 /* Elements/Sources Right Sidebar
 /**********************************************/

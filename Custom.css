@@ -376,7 +376,7 @@
 #-blink-dev-tools .split-view.vbox > .split-view-sidebar.split-view-contents-second:not(.maximized) {
   border-top: none !important;
 }
-#-blink-dev-tools ::-webkit-scrollbar,
+/*#-blink-dev-tools ::-webkit-scrollbar,
 #-blink-dev-tools .CodeMirror-scrollbar-filler,
 #-blink-dev-tools .CodeMirror-gutter-filler {
   width: 12px !important;
@@ -437,7 +437,7 @@
 #-blink-dev-tools .custom-popup-vertical-scroll ::-webkit-scrollbar-track-piece:vertical:decrement,
 #-blink-dev-tools .custom-popup-vertical-scroll ::-webkit-scrollbar-track-piece:vertical:increment {
   -webkit-border-image: none !important;
-}
+}*/
 #-blink-dev-tools .styles-section {
   padding: 4px 0 !important;
   margin: 0 10px;
